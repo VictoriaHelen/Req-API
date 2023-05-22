@@ -13,7 +13,7 @@ O primeiro parâmetro de busca 'user_ip' ou como é mostrado na url 'adress=remo
 
 O segundo parâmetro de busca é 'precision' como é mostrado na url 'precision=false' um boolean que serve para dizermos a precisão da localização,o padrão vem false que diga-se de passagem já nos fornece informação suficiente,mas caso queira uma reposta de alta precisão você deve trocar o false por true(mas nesse caso para requisições de alta precisão precisa-se de uma assinatura no site),portanto caso não possa pagar,deve-se manter o padrão false.
 
-Os dados referentes à consulta chegam são impressos e mostrados no parâmetro results, você também pode conferir a autenticação de sua chave no parâmetro de retorno valid_key e verificar no by se a consulta foi feita pelo modo de address_precision (consulta de alta precisão) ou address_standard (consulta normal).
+Os dados referentes à consulta chegam e são impressos e mostrados no parâmetro results, você também pode conferir a autenticação de sua chave no parâmetro de retorno valid_key e verificar no by se a consulta foi feita pelo modo de address_precision (consulta de alta precisão) ou address_standard (consulta normal).
 
 Os dados mostrados são:
 
