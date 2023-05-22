@@ -2,7 +2,7 @@
 
 Dupla:Victória Helen e Nicoly Santana
 
-O link do Site onde de onde eu retiramos a Api: https://console.hgbrasil.com/documentation/geoip
+O link do Site de onde retiramos a Api: https://console.hgbrasil.com/documentation/geoip
 
 Escohemos essa Api porque ela é a que mais se aproxima da primeira tela que criamos que é voltada para pessoas com Alzheimer,esperamos que com essa funcionalidade da API adquirida possamos ajudar familiares a saber onde seus entes queridos estão através do serviço de geolocalização.
 
