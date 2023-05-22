@@ -4,7 +4,7 @@ Dupla:Victória Helen e Nicoly Santana
 
 O link do Site de onde retiramos a Api: https://console.hgbrasil.com/documentation/geoip
 
-Escohemos essa Api porque ela é a que mais se aproxima da primeira tela que criamos que é voltada para pessoas com Alzheimer,esperamos que com essa funcionalidade da API adquirida possamos ajudar familiares a saber onde seus entes queridos estão através do serviço de geolocalização.
+Escolhemos essa Api porque ela é a que mais se aproxima da primeira tela que criamos que é voltada para pessoas com Alzheimer,esperamos que com essa funcionalidade da API adquirida possamos ajudar familiares a saber onde seus entes queridos estão através do serviço de geolocalização.
 
 O primeiro parâmetro de busca 'user_ip' ou como é mostrado na url 'adress=remote' consiste em utilizar o IP com base no cliente por isso a palavra remote, para trazer a resposta que seria a localização do mesmo de forma detalhada,mas também tem outra opção que seria você mesmo colocar o IP desejado logo após o sinal de igual.
 
