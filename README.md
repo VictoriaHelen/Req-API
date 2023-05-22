@@ -11,23 +11,24 @@ O segundo parâmetro de busca é 'precision' como é mostrado na url 'precision=
 Os dados referentes à consulta chegam são impressos e mostrados no parâmetro results, você também pode conferir a autenticação de sua chave no parâmetro de retorno valid_key e verificar no by se a consulta foi feita pelo modo de address_precision (consulta de alta precisão) ou address_standard (consulta normal).
 
 Os dados mostrados são:
-address - endereço de IP consultado
-type - ipv4 ou ipv6
-city - cidade
-region - região/estado
-country_name - nome do país
-continent - continente do IP no idioma selecionado
-continent_code - código do continente
-region_code - código da região/estado
-isp - provedor de internet (necessita do plano Professional ou acima, somente requisição precision)
-country - objeto com os dados do país
-name - nome do país
-code - código do país
-capital - capital do país
-flag - objeto com a bandeira do país
-name - nome da moeda
-buy - valor para compra
-calling_code - DDI do país
-latitude - latitude da cidade
-longitude - longitude da cidade
-woeid - código da cidade para consulta no HG Weather
+
+address - endereço de IP consultado,
+type - ipv4 ou ipv6,
+city - cidade,
+region - região/estado,
+country_name - nome do país,
+continent - continente do IP no idioma selecionado,
+continent_code - código do continente,
+region_code - código da região/estado,
+isp - provedor de internet (necessita do plano Professional ou acima, somente requisição precision),
+country - objeto com os dados do país,
+name - nome do país,
+code - código do país,
+capital - capital do país,
+flag - objeto com a bandeira do país,
+name - nome da moeda,
+buy - valor para compra,
+calling_code - DDI do país,
+latitude - latitude da cidade,
+longitude - longitude da cidade,
+woeid - código da cidade para consulta no HG Weather.
